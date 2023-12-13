@@ -103,6 +103,7 @@ const styles = {
   },
   uploadButton: {
     padding: '10px',
+    border: 'none',
     borderRadius: '5px',
     background: '#4caf50',
     color: '#fff',
